@@ -1,0 +1,29 @@
+bases
+change of basis
+complex vectors and matrices
+cramer_rule
+determinant
+diagonalization
+dot product
+eigenvalues and eigenvectors
+Gaussian elimination
+inner product
+linear least squares
+linear regression
+linear systems as matrices
+LU factorization
+matrix inverse
+matrix multiplication
+matrix transpose
+multiplicity of eigenvalues
+orthogonal subspaces
+positive definite matrices
+projection onto a subspace
+QR decomposition
+singular value decomposition
+spectral decomposition
+subspaces
+unitary matrices
+linear transformations as matrices
+vector spaces
+vectors
